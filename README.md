@@ -1,2 +1,2 @@
 # mi-portfolio
-Este es mi portfolio hecho en HTML y CSS
+Este es mi diseno de pagina web personal, creada con HTML y CSS
